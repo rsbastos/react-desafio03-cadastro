@@ -1,7 +1,28 @@
 {
-    "users": [
-        { "id": 1, "name": "João", "mail": "joao@teste.com", "senha": "123456" },
-        { "id": 2, "name": "Maria", "mail": "maria@teste.com", "senha": "123456" },
-        { "id": 3, "name": "José", "mail": "jose@teste.com", "senha": "123456" }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "name": "João",
+      "email": "joao@teste.com",
+      "senha": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Maria",
+      "email": "maria@teste.com",
+      "senha": "123456"
+    },
+    {
+      "id": "3",
+      "name": "José",
+      "email": "jose@teste.com",
+      "senha": "123456"
+    },
+    {
+      "id": "a917",
+      "Nome completo": "Teste",
+      "E-mail": "teste@teste.com",
+      "Password": "123456"
+    }
+  ]
 }
